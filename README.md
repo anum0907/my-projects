@@ -39,3 +39,12 @@ I developed a modern and fully customizable Flutter chat UI package for messagin
 
 Git Hub Link https://github.com/anumarif09/flutter_modern_chat_ui.git
 
+
+PROJECT 6 – Employee Portal System (ASP.NET Core MVC)
+
+Developed a web-based Employee Portal System using C#, ASP.NET Core MVC, and SQL Server to streamline employee management. The system includes separate Admin and Employee dashboards with features for employee records, attendance, leave requests, salary management, announcements, and authentication.
+
+Implemented role-based access control, audit logging, and database operations using Entity Framework Core. Tested, debugged, and deployed the application using IIS.
+
+Technologies: C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, HTML, CSS, JavaScript, Bootstrap, IIS.
+Git Hub Link https://github.com/anum0907/Employee-Portal-System.git
